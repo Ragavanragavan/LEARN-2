@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Person:
     def __init__(self, name, age):
         self.__name = name      # private attribute
@@ -27,3 +28,6 @@ person.set_age(35)
 print(person.get_age())   # 35
 
 person.set_age(-5)        # Age must be positive.
+=======
+nothing to show
+>>>>>>> gitbranch1
